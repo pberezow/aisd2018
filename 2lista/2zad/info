@@ -1,0 +1,4 @@
+W plikach .csv znajdują się wyniki dla wywolań:
+- insert.csv -> java Zad2 --type insert --comp '<=' --stat insert.csv 1000
+- quick.csv -> java Zad2 --type quick --comp '<=' --stat quick.csv 1000
+- merge.csv -> java Zad2 --type merge --comp '<=' --stat merge.csv 1000

@@ -1,0 +1,6 @@
+2
+load file.txt
+inorder
+load aspell_wordlist.txt
+load sample.txt
+find First

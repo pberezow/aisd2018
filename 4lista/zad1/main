@@ -1,0 +1,2 @@
+#!/bin/bash
+./main.jar $1 $2 <&0 >&1 

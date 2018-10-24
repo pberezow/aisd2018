@@ -1,0 +1,2 @@
+#!/bin/bash
+java Graph $1 <&0 >&1 

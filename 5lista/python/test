@@ -1,0 +1,26 @@
+insert 5 3
+insert 9 0
+insert 13 2
+insert 22 93
+insert 12 5
+insert 36 13
+insert 6 0
+insert 22 13
+print
+empty
+top
+pop
+pop
+top
+empty
+priority 22 0
+pop
+pop
+print
+pop
+pop
+pop
+pop
+pop
+empty
+top
